@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Electron 1
-Icon=electron1
+Icon=electron
 Exec=electron1 %u
 Categories=Development;GTK;
 StartupNotify=true
